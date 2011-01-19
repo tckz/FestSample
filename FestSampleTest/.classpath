@@ -10,5 +10,6 @@
 	<classpathentry kind="lib" path="lib/fest-swing-junit-4.5-1.2.jar" sourcepath="libsrc/fest-swing-junit-4.5-1.2-sources.jar"/>
 	<classpathentry kind="lib" path="lib/fest-util-1.1.4.jar"/>
 	<classpathentry kind="lib" path="lib/jcip-annotations-1.0.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/FestSample"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

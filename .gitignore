@@ -1,4 +1,5 @@
-/bin
-/lib/*.jar
-/libsrc/*.jar
-/failed-gui-tests
+/FestSample/bin
+/FestSampleTest/bin
+/FestSampleTest/lib/*.jar
+/FestSampleTest/libsrc/*.jar
+/FestSampleTest/failed-gui-tests
