@@ -1,0 +1,4 @@
+/bin
+/lib/*.jar
+/libsrc/*.jar
+/failed-gui-tests

@@ -1,0 +1,7 @@
+lib/fest-assert-1.3.jar
+lib/fest-reflect-1.2.jar
+lib/fest-swing-1.2.jar
+lib/fest-swing-junit-1.2.jar
+lib/fest-swing-junit-4.5-1.2.jar
+lib/fest-util-1.1.4.jar
+lib/jcip-annotations-1.0.jar
